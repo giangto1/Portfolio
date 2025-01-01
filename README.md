@@ -1,4 +1,4 @@
-# Giang's Portfolio
+# Jenny's Portfolio
 Welcome to my portfolio. This is where I document the projects that I have done in the data field.
 
 ## Table of Contents
