@@ -19,9 +19,9 @@ Project Link | Tools | Project Description
  |  |  |
  
 ## R
-Project Link | Tools | Project Description 
+Project Link | Area | Project Description 
 --- | --- | --- | 
- |  |  |
+[Portfolio Analysis](https://github.com/giangto1/portfolio_analysis) | Programming | This project analyzes closing prices of 30 different stocks over 80 weeks to determine the optimal portfolio allocation using Markowitz's Modern Portfolio Theory and Gaussian Mixture Models. By applying statistical methods and clustering techniques, it identifies asset groupings and computes efficient frontiers to maximize returns while minimizing risk. The project showcases expertise in financial modeling, quantitative analysis, and portfolio optimization. |
  
 ## Python
 Project Link | Area | Project Description 
