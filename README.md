@@ -14,9 +14,9 @@ Project Link | Tools | Project Description
  |  |  |
  
 ## SQL
-Project Link | Tools | Project Description 
+Project Link | Area of Analysis | Project Description 
 --- | --- | --- | 
- |  |  |
+[8 Weeks SQL Challenge](https://github.com/giangto1/8weeksSQL) | Data Analysis, Data Cleaning, EDA | This repository contains solutions for the 8 case studies from the #8WeekSQLChallenge. It highlights my ability to solve diverse SQL problems while showcasing my expertise in SQL query writing and analytical problem-solving. Please note that this is an ongoing project, and additional updates or refinements may be made over time. |
  
 ## R
 Project Link | Area | Project Description 
