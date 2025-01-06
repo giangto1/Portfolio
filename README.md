@@ -24,9 +24,9 @@ Project Link | Area | Project Description
 [Portfolio Optimization](https://github.com/giangto1/portfolio_analysis) | Programming | This project analyzes closing prices of 30 different stocks over 80 weeks to determine the optimal portfolio allocation using Markowitz's Modern Portfolio Theory and Gaussian Mixture Models. By applying statistical methods and clustering techniques, it identifies asset groupings and computes efficient frontiers to maximize returns while minimizing risk. |
  
 ## Python
-Project Link | Area | Project Description 
+Project Link | Area | Project Description | Libraries
 --- | --- | --- | 
-[Chess Piece Image Classification](https://github.com/giangto1/5525Chess) | Programming, ML Modeling | This project focuses on implementing Support Vector Machines (SVM) for image classification of chess pieces. It includes utilizing Scikit-learn's SVM implementation and building a custom SVM from scratch to compare performance and accuracy.  |
+[Chess Piece Image Classification](https://github.com/giangto1/5525Chess) | Programming, ML Modeling | This project focuses on implementing Support Vector Machines (SVM) for image classification of chess pieces. It includes utilizing Scikit-learn's SVM implementation and building a custom SVM from scratch to compare performance and accuracy.  | Scikit-learn, pandas, numpy, matplotlib
  
 ## Tableau
 Project Link | Project Description | Dashboard Link
