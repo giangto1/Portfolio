@@ -25,8 +25,8 @@ Project Link | Area | Project Description
  
 ## Python
 Project Link | Area | Project Description | Libraries
---- | --- | --- | 
-[Chess Piece Image Classification](https://github.com/giangto1/5525Chess) | Programming, ML Modeling | This project focuses on implementing Support Vector Machines (SVM) for image classification of chess pieces. It includes utilizing Scikit-learn's SVM implementation and building a custom SVM from scratch to compare performance and accuracy.  | Scikit-learn, pandas, numpy, matplotlib
+--- | --- | --- | --- |
+[Chess Piece Image Classification](https://github.com/giangto1/5525Chess) | Programming, ML Modeling | This project focuses on implementing Support Vector Machines (SVM) for image classification of chess pieces. It includes utilizing Scikit-learn's SVM implementation and building a custom SVM from scratch to compare performance and accuracy. | scikit-learn, pandas, numpy, matplotlib
  
 ## Tableau
 Project Link | Project Description | Dashboard Link
