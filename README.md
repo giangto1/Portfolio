@@ -2,16 +2,15 @@
 Welcome to my portfolio. This is where I document the projects that I have done in the data field.
 
 ## 📚 Table of Contents
-- Data Engineering
 - SQL
 - Python
 - R
 - Tableau
 
-## Data Engineering
-Project Link | Tools | Project Description 
---- | --- | --- | 
- |  |  |
+[cmt]: ## Data Engineering
+[cmt]: Project Link | Tools | Project Description 
+[cmt]: --- | --- | --- | 
+[cmt]:  |  |  |
  
 ## SQL
 Project Link | Area of Analysis | Project Description 
