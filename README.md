@@ -7,10 +7,10 @@ Welcome to my portfolio. This is where I document the projects that I have done 
 - R
 - Tableau
 
-[cmt]: ## Data Engineering
-[cmt]: Project Link | Tools | Project Description 
-[cmt]: --- | --- | --- | 
-[cmt]:  |  |  |
+## End to End Projects
+Project Link | Area of Analysis | Tools | Project Description 
+--- | --- | --- | --- |
+[Study App TABot Analysis](https://docs.google.com/presentation/d/1uwwbQubfv1tSXSgcNdC6HYvtEotF9khndNf-g7csbL0/edit#slide=id.p) | Business Analysis, Marketing Strategies | Python, R, Excel, Tableau, Hypothesis Testing, Regression Models | Analysing TABot features to determine the key factor boosting academic success, made recommendations on optimizing the app's UI, ways to increase student interaction with the app, and develop marketing strategies for retaining and recruiting users. |
  
 ## SQL
 Project Link | Area of Analysis | Project Description 
