@@ -12,6 +12,7 @@ Welcome to my portfolio. This is where I document the projects that I have done 
 Project Link | Area of Analysis | Tools | Project Description 
 --- | --- | --- | --- |
 [Study App TABot Analysis](https://docs.google.com/presentation/d/1uwwbQubfv1tSXSgcNdC6HYvtEotF9khndNf-g7csbL0/edit#slide=id.p) | Business Analysis, Marketing Strategies | Python, R, Excel, Tableau, Hypothesis Testing, Regression Models | Analysing TABot features to determine the key factor boosting academic success, made recommendations on optimizing the app's UI, ways to increase student interaction with the app, and develop marketing strategies for retaining and recruiting users. |
+[Teladoc Expansion Strategies](https://drive.google.com/file/d/1AZYfr2FoadAmBrPlgLcZNUoAbbu5sgTn/view?usp=drive_link) | Market Analysis, Risk Analysis | Excel, Tableau, Regression Models, DCF Models | Analyzed 6 global markets ($5B telehealth spend), assessed $10M entry costs and risks, and recommended a 5-year domestic focus to boost profits by 15% and save $50M. | 
  
 ## SQL
 Project Link | Area of Analysis | Project Description 
